@@ -1,3 +1,7 @@
+> [!WARNING]
+> This project is archived, and is no longer actively supported.
+> Contact us for more details.
+
 # relay
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ULAS-HiPR_relay&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ULAS-HiPR_relay)
